@@ -130,7 +130,7 @@ export default function Hero() {
           color: 'var(--gold-light)',
           marginBottom: '2rem',
         }}>
-          [Artist Name]
+          Ramneek Singh
         </h1>
 
         {/* Tagline */}

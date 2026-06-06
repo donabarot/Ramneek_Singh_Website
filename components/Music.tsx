@@ -3,21 +3,21 @@
 export default function Music() {
   const videos = [
     {
-      title: 'Raag Yaman — Khayal',
+      title: 'Raag Yaman Khayal',
       subtitle: 'Sawai Gandharva Bhimsen Mahotsav, Pune',
       year: '2023',
       duration: '28 min',
       youtubeId: 'REPLACE_WITH_YOUTUBE_ID',
     },
     {
-      title: 'Raag Bhairavi — Thumri',
+      title: 'Raag Bhairavi Thumri',
       subtitle: 'Dover Lane Music Conference, Kolkata',
       year: '2022',
       duration: '18 min',
       youtubeId: 'REPLACE_WITH_YOUTUBE_ID',
     },
     {
-      title: 'Raag Darbari — Vilambit Khayal',
+      title: 'Raag Darbari Vilambit Khayal',
       subtitle: 'ITC Sangeet Sammelan, Delhi',
       year: '2022',
       duration: '45 min',
@@ -68,7 +68,8 @@ export default function Music() {
             maxWidth: '500px',
             margin: '0 auto',
           }}>
-            Selected recordings from concerts and studios — a glimpse into the world of living raag.
+        SUBJECT TO CHANGE - current source from existing website.
+            Selected recordings from concerts and studios a glimpse into the world of living raag.
           </p>
         </div>
 

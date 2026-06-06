@@ -81,15 +81,15 @@ export default function Contact() {
             lineHeight: 1.8,
             marginBottom: '3rem',
           }}>
-            Whether you are organizing a classical music festival, a cultural evening, or a private mehfil — we would love to hear from you. Please share your event details and we will get back to you within 48 hours.
+            SUBJECT TO CHANGE - Whether you are organizing a classical music festival, a cultural evening, or a private mehfil we would love to hear from you. Please share your event details and we will get back to you within 48 hours.
           </p>
 
           {/* Contact details */}
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem', marginBottom: '3rem' }}>
             {[
-              { label: 'Email', value: 'bookings@[artistname].com', icon: '✉' },
-              { label: 'Management', value: '+91 98XXX XXXXX', icon: '☎' },
-              { label: 'Based in', value: 'Mumbai / Delhi, India', icon: '◎' },
+              { label: 'Email', value: 'ramneeksinghgmusic@gmail.com', icon: '✉' },
+              { label: 'Management', value: '+1 (555) 123-4567', icon: '☎' },
+              { label: 'Based in', value: 'Toronto, Canada', icon: '◎' },
             ].map(item => (
               <div key={item.label} style={{ display: 'flex', gap: '1rem', alignItems: 'start' }}>
                 <span style={{ color: 'var(--gold)', fontSize: '1rem', marginTop: '2px', minWidth: '20px' }}>
@@ -294,7 +294,7 @@ export default function Contact() {
                   }}>City / Country</label>
                   <input
                     type="text"
-                    placeholder="e.g. Mumbai, India"
+                    placeholder="e.g. Toronto,Canada"
                     style={inputStyle}
                     value={formData.city}
                     onChange={e => setFormData({...formData, city: e.target.value})}

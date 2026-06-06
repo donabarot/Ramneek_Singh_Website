@@ -2,10 +2,10 @@
 
 export default function About() {
   const credentials = [
-    { label: 'Tradition', value: '[Gharana Name] Gharana' },
+    { label: 'Tradition', value: 'Indore Gharana' },
     { label: 'Guru', value: 'Pt. [Guru Name]' },
     { label: 'Training', value: '25+ years' },
-    { label: 'Based in', value: 'Mumbai / Delhi' },
+    { label: 'Based in', value: 'Toronto, Canada' },
   ]
 
   return (
@@ -123,7 +123,7 @@ export default function About() {
             marginBottom: '1.5rem',
             opacity: 0.85,
           }}>
-            [Artist Name] is a distinguished exponent of Hindustani classical vocal music, carrying forward the legacy of the [Gharana] tradition. Trained under the tutelage of the legendary Pt. [Guru Name], she has spent over two decades mastering the intricate architecture of raag, taal, and bhav.
+           SUBJECT TO CHANGE - Ramneek Singh is a distinguished exponent of Hindustani classical vocal music, carrying forward the legacy of the Indore tradition. Trained under the tutelage of the legendary Pt. [Guru Name], she has spent over two decades mastering the intricate architecture of raag, taal, and bhav.
           </p>
 
           <p style={{
@@ -134,7 +134,7 @@ export default function About() {
             marginBottom: '2.5rem',
             opacity: 0.85,
           }}>
-            Her performances — whether an intimate mehfil or a grand concert stage — carry audiences into a world where each raag is a living emotion, each taan a flight of the soul. She has performed at [Festival Name], [Festival Name], and prestigious cultural institutions across the globe.
+        // SUBJECT TO CHANGE - Her performances, whether an intimate mehfil or a grand concert stage carry audiences into a world where each raag is a living emotion, each taan a flight of the soul. She has performed at [Festival Name], [Festival Name], and prestigious cultural institutions across the globe.
           </p>
 
           {/* Highlight tags */}

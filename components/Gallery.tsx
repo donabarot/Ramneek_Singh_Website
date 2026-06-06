@@ -52,7 +52,7 @@ export default function Gallery() {
             color: 'var(--text-light)',
             lineHeight: 1.7,
           }}>
-            Photographs from performances, recording sessions, and cultural journeys — each frame a note in an ongoing raga.
+           SUBJECT TO CHANGE - Photographs from performances, recording sessions, and cultural journeys each frame a note in an ongoing raga.
           </p>
         </div>
 

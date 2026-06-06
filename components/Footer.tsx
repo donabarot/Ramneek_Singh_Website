@@ -45,7 +45,7 @@ export default function Footer() {
               fontStyle: 'italic',
               color: 'var(--cream)',
               marginBottom: '1rem',
-            }}>Vidushi [Artist Name]</h3>
+            }}>Vidushi Ramneek Singh</h3>
             <p style={{
               fontFamily: 'var(--font-serif)',
               fontSize: '0.95rem',
@@ -53,8 +53,7 @@ export default function Footer() {
               lineHeight: 1.7,
               maxWidth: '300px',
             }}>
-              Hindustani Classical Vocalist · [Gharana] Tradition · Mumbai & Delhi
-            </p>
+              Hindustani Classical Vocalist · Indore Gharana · Toronto, Canada       </p>
           </div>
 
           {/* Center: ornament */}
@@ -114,7 +113,7 @@ export default function Footer() {
             letterSpacing: '0.12em',
             color: 'var(--text-muted)',
           }}>
-            © {new Date().getFullYear()} Vidushi [Artist Name]. All rights reserved.
+            © {new Date().getFullYear()} Vidushi Ramneek Singh. All rights reserved.
           </p>
           <p style={{
             fontFamily: 'var(--font-sans)',
